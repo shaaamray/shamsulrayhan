@@ -166,13 +166,19 @@ const PUBLICATIONS = [
     title: "Classifying Corn Leaf Diseases using Ensemble Learning with Dropout and Stochastic Depth Based Convolutional Networks",
     venue: "International Conference on Machine Learning Technologies (ICMLT), 2023",
     role: "First author",
-    link: "https://scholar.google.com/citations?user=J1qRlRYAAAAJ&hl=en"
+    link: "https://dl.acm.org/doi/abs/10.1145/3589883.3589911"
   },
   {
     title: "Sarcasm Detection in News Headlines Using Evidential Deep Learning Based LSTM and GRU",
     venue: "Asian Conference on Pattern Recognition (ACPR), 2023",
     role: "First author",
-    link: "https://scholar.google.com/citations?user=J1qRlRYAAAAJ&hl=en"
+    link: "https://link.springer.com/chapter/10.1007/978-3-031-47634-1_15"
+  },
+  {
+    title: "Interpretable Disease Classification in Plant Leaves using Deep Convolutional Neural Networks",
+    venue: "25th International Conference on Computer and Information Technology (ICCIT), 2022",
+    role: "Third author",
+    link: "https://ieeexplore.ieee.org/abstract/document/10055126"
   }
 ];
 
