@@ -16,7 +16,7 @@ const PROFILE = {
   name: "Md Shamsul Rayhan Chy",
   shortName: "Shaamray",
   tagline: "Cyber security minded IT professional and ML researcher, based in Sydney.",
-  photo: "assets/profile.jpg",
+  photo: "assets/profile1.jpg",
   photoAlt: "Md Shamsul Rayhan Chy at his Master of Information Technology graduation",
   location: "Sydney, Australia",
   email: "shaamsulrayhan@gmail.com",
